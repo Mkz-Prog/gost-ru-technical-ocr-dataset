@@ -1,13 +1,14 @@
 ---
 license: mit
-language:
-- ru
+language: ru
 ---
-# Dataset Card for Dataset Name
+# Dataset Card
 
 <!-- Provide a quick summary of the dataset. -->
 
 Synthetic OCR dataset of Russian technical drawings text generated with [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator).
+
+Tihs dataset on HuggingFace [here](https://huggingface.co/datasets/Mkz-Prog/gost-ru-technical-ocr-dataset).
 
 ## Dataset Details
 
